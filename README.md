@@ -10,3 +10,6 @@ Discord.js bot for chatting
 
 !embed (message)
 </h3>
+
+
+<h2>RENAME "env" TO ".env" (add the .)</h2>
